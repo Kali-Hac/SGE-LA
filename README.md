@@ -1,9 +1,9 @@
 # Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification
-By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. In [IJCAI 2020]().
+By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. In [IJCAI 2020](https://github.com/Kali-Hac/SGE-LA).
 
 ## Introduction
 This is the official implementation of the self-supervised gait encoding model presented by "Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification".
-The codes are used to reproduce experimental results of the proposed Attention-basd Gait Encodings (AGEs) in the [paper]().
+The codes are used to reproduce experimental results of the proposed Attention-basd Gait Encodings (AGEs) in the [paper](https://github.com/Kali-Hac/SGE-LA).
 
 ## Requirements
 - Python 3.5
