@@ -3,7 +3,7 @@ By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. 
 
 ## Introduction
 This is the official implementation of the self-supervised gait encoding model presented by "Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification".
-The codes are used to reproduce experimental results of the proposed Attention-basd Gait Encodings (AGEs) in the [paper](https://www.ijcai.org/proceedings/2020/0125.pdf) (To be published soon).
+The codes are used to reproduce experimental results of the proposed Attention-basd Gait Encodings (AGEs) in the [paper](https://www.ijcai.org/proceedings/2020/0125.pdf).
 
 ## Requirements
 - Python 3.5
