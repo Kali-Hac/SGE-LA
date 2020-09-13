@@ -39,6 +39,17 @@ python evaluate.py --dataset BIWI
 
 Please see ```evaluate.py``` for more details.
 
+## Citation
+```bash
+@inproceedings{rao2020self,
+	title="Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification",
+	author="Haocong {Rao} and Siqi {Wang} and Xiping {Hu} and Mingkui {Tan} and Huang {Da} and Jun {Cheng} and Bin {Hu}",
+	booktitle="IJCAI 2020: International Joint Conference on Artificial Intelligence",
+	year="2020"
+}
+
+```
+
 
 ## License
 
