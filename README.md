@@ -22,7 +22,7 @@ Two already trained models (BIWI, IAS) are saved in this repository, and all thr
 Please download the preprocessed datasets ``Datasets/`` and the model files ``Models/`` into the current directory. 
 <br/>
 
-The original datasets can be downloaded from: [BIWI and IAS-Lab](http://robotics.dei.unipd.it/reid/index.php/downloads) &nbsp; &nbsp; &nbsp;
+The original datasets can be downloaded from:  &nbsp; &nbsp; &nbsp; [BIWI and IAS-Lab](http://robotics.dei.unipd.it/reid/index.php/downloads) &nbsp; &nbsp; &nbsp;
 [KGBD](https://www.researchgate.net/publication/275023745_Kinect_Gait_Biometry_Dataset_-_data_from_164_individuals_walking_in_front_of_a_X-Box_360_Kinect_Sensor) 
  
 ## Usage
