@@ -5,6 +5,10 @@ By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. 
 This is the official implementation of the self-supervised gait encoding model presented by "Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification".
 The codes are used to reproduce experimental results of the proposed Attention-basd Gait Encodings (AGEs) in the [paper](https://www.ijcai.org/proceedings/2020/0125.pdf).
 
+![image](https://github.com/Kali-Hac/SGE-LA/tree/master/img/overview.png)
+
+Abstract: Gait-based person re-identification (Re-ID) is valuable for safety-critical applications, and using only 3D skeleton data to extract discriminative gait features for person Re-ID is an emerging open topic. Existing methods either adopt hand-crafted features or learn gait features by traditional supervised learning paradigms. Unlike previous methods, we for the first time propose a generic gait encoding approach that can utilize unlabeled skeleton data to learn gait representations in a self-supervised manner. Specifically, we first propose to introduce self-supervision by learning to reconstruct input skeleton sequences in reverse order, which facilitates learning richer high-level semantics and better gait representations. Second, inspired by the fact that motion's continuity endows temporally adjacent skeletons with higher correlations (“locality”), we propose a locality-aware attention mechanism that encourages learning larger attention weights for temporally adjacent skeletons when reconstructing current skeleton, so as to learn locality when encoding gait. Finally, we propose Attention-based Gait Encodings (AGEs), which are built using context vectors learned by locality-aware attention, as final gait representations. AGEs are directly utilized to realize effective person Re-ID. Our approach typically improves existing skeleton-based methods by 10-20% Rank-1 accuracy, and it achieves comparable or even superior performance to multi-modal methods with extra RGB or depth information.
+
 ## Requirements
 - Python 3.5
 - Tensorflow 1.10.0 (GPU)
