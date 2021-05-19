@@ -49,6 +49,7 @@ python evaluate.py --dataset BIWI
 Please see ```evaluate.py``` for more details.
 
 ## Citation
+If you find this code useful for your research, please cite our paper
 ```bash
 @inproceedings{rao2020self,
 	title="Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification",
