@@ -56,13 +56,21 @@ Please see ```evaluate.py``` for more details.
 ## Citation
 If you find this code useful for your research, please cite our paper
 ```bash
-@inproceedings{rao2020self,
-	title="Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification",
-	author="Haocong {Rao} and Siqi {Wang} and Xiping {Hu} and Mingkui {Tan} and Huang {Da} and Jun {Cheng} and Bin {Hu}",
-	booktitle="IJCAI 2020: International Joint Conference on Artificial Intelligence",
-	year="2020"
+@inproceedings{DBLP:conf/ijcai/RaoW0TD0020,
+  author    = {Haocong Rao and
+               Siqi Wang and
+               Xiping Hu and
+               Mingkui Tan and
+               Huang Da and
+               Jun Cheng and
+               Bin Hu},
+  title     = {Self-Supervised Gait Encoding with Locality-Aware Attention for Person
+               Re-Identification},
+  booktitle = {IJCAI},
+  pages     = {898--905},
+  publisher = {ijcai.org},
+  year      = {2020}
 }
-
 ```
 
 
