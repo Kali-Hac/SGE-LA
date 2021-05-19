@@ -51,7 +51,7 @@ python evaluate.py --dataset BIWI
 Please see ```evaluate.py``` for more details.
 
 ## Results
-![results](img/results.png)
+![results](img/AGE-results.png)
 
 ## Citation
 If you find this code useful for your research, please cite our paper
