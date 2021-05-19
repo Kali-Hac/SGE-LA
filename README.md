@@ -1,3 +1,5 @@
+![Python >=3.5](https://img.shields.io/badge/Python->=3.5-blue.svg)
+![PyTorch >=1.6](https://img.shields.io/badge/Tensorflow->=1.10-yellow.svg)
 # Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification
 By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. In [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/125).
 
