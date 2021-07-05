@@ -1,7 +1,7 @@
 ![Python >=3.5](https://img.shields.io/badge/Python->=3.5-blue.svg)
 ![PyTorch >=1.6](https://img.shields.io/badge/Tensorflow->=1.10-yellow.svg)
 # Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification
-By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. In [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/125).
+By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. In [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/125). The extended journal version is available in [T-PAMI 2021](https://ieeexplore.ieee.org/abstract/document/9466418) with open [codes] (https://github.com/Kali-Hac/Locality-Awareness-SGE).
 
 ## Introduction
 This is the official implementation of the self-supervised gait encoding model presented by "Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification".
