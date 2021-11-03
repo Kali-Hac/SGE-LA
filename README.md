@@ -68,8 +68,8 @@ Please see ```evaluate.py``` for more details.
 | D-16 Descriptors + Adaboost  | 41.8   | 27.4  | 39.2  | 69.9 | 74.1 | 65.5  | 78.2  | 90.6 |
 | Single-layer LSTM            | 15.8   | 20.0  | 19.1  | 39.8 | 65.8 | 65.9  | 68.4  | 87.2 |
 | Multi-layer LSTM             | 36.1   | 34.4  | 30.9  | 46.2 | 75.6 | 72.1  | 71.9  | 89.8 |
-| PoseGait                     | 33.3   | 41.4  | 37.1  | 90.6 | 81.8 | 79.9  | 74.8  | 97.8 |
-| AGE (Ours)                   | 59.1   | 56.1  | 58.2  | 87.7 | 86.5 | 81.7  | 85.3  | 96.3 |
+| **PoseGait**                     | 33.3   | 41.4  | 37.1  | **90.6** | 81.8 | 79.9  | 74.8  | **97.8** |
+| **AGE (Ours)**                   | **59.1**   | **56.1**  | **58.2**  | 87.7 | **86.5** | **81.7** | **85.3**  | 96.3 |
 <!-- ![results](img/AGE-results.png) -->
 
 ## Model Size & Computational Complexity
