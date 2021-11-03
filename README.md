@@ -5,7 +5,7 @@ By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. 
 
 ## Introduction
 This is the official implementation of the self-supervised gait encoding model presented by "Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification".
-The codes are used to reproduce experimental results of the proposed Attention-basd Gait Encodings (AGEs) in the [paper](https://www.ijcai.org/proceedings/2020/0125.pdf).
+The codes are used to reproduce experimental results of the proposed Attention-basd Gait Encodings (AGEs) in the [**paper**](https://www.ijcai.org/proceedings/2020/0125.pdf).
 
 ![image](https://github.com/Kali-Hac/SGE-LA/blob/master/img/overview.png)
 
@@ -52,6 +52,15 @@ Please see ```evaluate.py``` for more details.
 
 ## Results
 ![results](img/AGE-results.png)
+
+## Model Size & Computational Complexity
+| Methods                 | # Params | GFLOPs |
+| ----------------------- | -------- | ------ |
+| PoseGait                | 26.80M   | 364.8  |
+| [AGEs (Ours)](https://github.com/Kali-Hac/SGE-LA) | 7.15M    | 37.4   |
+| [CAGEs](https://github.com/Kali-Hac/Locality-Awareness-SGE)                   | 8.47M    | 7.5    |
+| [SM-SGE](https://github.com/Kali-Hac/SM-SGE)                  | 5.58M    | 22.6   |
+
 
 ## Citation
 If you find this code useful for your research, please cite our paper
