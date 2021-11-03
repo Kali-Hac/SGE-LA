@@ -51,7 +51,7 @@ python evaluate.py --dataset BIWI
 Please see ```evaluate.py``` for more details.
 
 ## Results
-| Models                       | Rank-1       | nAUC       |
+| Models                       | Rank-1 |       |       |      | nAUC |       |       |      |
 |------------------------------|:------:|:-----:|:-----:|:----:|:----:|-------|-------|------|
 |                              | BIWI   | IAS-A | IAS-B | KGBD | BIWI | IAS-A | IAS-B | KGBD |
 | Gait Energy Image            | 21.4   | 25.6  | 15.9  |  —   | 73.2 | 72.1  | 66.0  |  —   |
