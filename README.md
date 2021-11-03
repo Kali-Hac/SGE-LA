@@ -54,12 +54,12 @@ Please see ```evaluate.py``` for more details.
 ![results](img/AGE-results.png)
 
 ## Model Size & Computational Complexity
-| Methods                 | # Params | GFLOPs |
-| ----------------------- | -------- | ------ |
-| PoseGait                | 26.80M   | 364.8  |
-| [AGEs (Ours)](https://github.com/Kali-Hac/SGE-LA) | 7.15M    | 37.4   |
-| [CAGEs](https://github.com/Kali-Hac/Locality-Awareness-SGE)                   | 8.47M    | 7.5    |
-| [SM-SGE](https://github.com/Kali-Hac/SM-SGE)                  | 5.58M    | 22.6   |
+| Methods  | # Params | GFLOPs |
+|----------|----------|--------|
+| PoseGait |   26.80M |  364.8 |
+| [AGE (Ours)](https://github.com/Kali-Hac/SGE-LA)      |    7.15M |   37.4 |
+| [CAGE (Extension)](https://github.com/Kali-Hac/Locality-Awareness-SGE)     |    8.47M |    7.5 |
+| [SM-SGE](https://github.com/Kali-Hac/SM-SGE)   |    5.58M |   22.6 |
 
 
 ## Citation
