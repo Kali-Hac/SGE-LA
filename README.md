@@ -21,7 +21,7 @@ We provide three already preprocessed datasets (BIWI, IAS, KGBD) on <br/>
 [Baidu Cloud](https://pan.baidu.com/s/1oOvY2pHM7DFQWcwfVwu6Lw) &nbsp; &nbsp; &nbsp; Password: &nbsp; &nbsp; kle5 &nbsp; &nbsp; &nbsp;
 [Tencent Cloud](https://share.weiyun.com/5faKfq4) &nbsp; &nbsp; &nbsp; password：&nbsp; &nbsp; ma385h <br/>
 <br />
-Two already trained models (BIWI, IAS) are saved in this repository, and all three models can be acquired on <br />
+The pre-trained models (BIWI, IAS, KGBD) are saved in this repository, and all three models can be acquired on <br />
 [Google Cloud](https://drive.google.com/drive/folders/1I7eSd37ArGJt46ZfUSzXT0ciDvgW9m-K?usp=sharing) &nbsp; &nbsp; &nbsp;
 [Baidu Cloud](https://pan.baidu.com/s/1367Gy-Bk9ojOrXveqCcm0Q) &nbsp; &nbsp; &nbsp; Password: &nbsp; &nbsp; r1jp &nbsp; &nbsp; &nbsp;
 [Tencent Cloud](https://share.weiyun.com/5EBPkPZ) &nbsp; &nbsp; &nbsp; password：&nbsp; &nbsp; 6xpj8r  <br/> 
@@ -69,7 +69,7 @@ Please see ```evaluate.py``` for more details.
 | Single-layer LSTM            | 15.8   | 20.0  | 19.1  | 39.8 | 65.8 | 65.9  | 68.4  | 87.2 |
 | Multi-layer LSTM             | 36.1   | 34.4  | 30.9  | 46.2 | 75.6 | 72.1  | 71.9  | 89.8 |
 | **PoseGait**                     | 33.3   | 41.4  | 37.1  | **90.6** | 81.8 | 79.9  | 74.8  | **97.8** |
-| **AGE (Ours)**                   | **59.1**   | **56.1**  | **58.2**  | 87.7 | **86.5** | **81.7** | **85.3**  | 96.3 |
+| **AGE (Ours)**                   | **59.1**[(ckpt)](https://drive.google.com/drive/folders/1XC0a3hqKx2XxFRCjYlG5eSSxlf4URkrl?usp=sharing)   | **56.1**[(ckpt)](https://drive.google.com/drive/folders/1GfUrssk4B9kexSb6nuQwqxLKMm6SIsNc?usp=sharing)  | **58.2**[(ckpt)](https://drive.google.com/drive/folders/1GfUrssk4B9kexSb6nuQwqxLKMm6SIsNc?usp=sharing)  | 87.7[(ckpt)](https://drive.google.com/drive/folders/1csYPna0GN_1n9_f-2ih6Q3Zyj8KgsKgT?usp=sharing) | **86.5** | **81.7** | **85.3**  | 96.3 |
 <!-- ![results](img/AGE-results.png) -->
 
 ## Model Size & Computational Complexity
