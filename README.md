@@ -78,7 +78,6 @@ Please see ```evaluate.py``` for more details.
 | PoseGait |   26.80M |  364.8 |
 | [AGEs (Ours)](https://github.com/Kali-Hac/SGE-LA)      |    7.15M |   37.4 |
 | [CAGEs (Extension)](https://github.com/Kali-Hac/Locality-Awareness-SGE)     |    8.47M |    7.5 |
-| [SM-SGE](https://github.com/Kali-Hac/SM-SGE)   |    5.58M |   22.6 |
 
 
 ## Citation
