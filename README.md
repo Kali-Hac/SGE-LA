@@ -53,7 +53,7 @@ Please see ```evaluate.py``` for more details.
 ## Results
 | Models                       | Rank-1 |       |       |      | nAUC |       |       |      |
 |------------------------------|:------:|:-----:|:-----:|:----:|:----:|-------|-------|------|
-|                              | BIWI   | IAS-A | IAS-B | KGBD | BIWI | IAS-A | IAS-B | KGBD |
+|                              | **BIWI   | IAS-A | IAS-B | KGBD | BIWI | IAS-A | IAS-B | KGBD** |
 | Gait Energy Image            | 21.4   | 25.6  | 15.9  |  —   | 73.2 | 72.1  | 66.0  |  —   |
 | Gait Energy Volume           | 25.7   | 20.4  | 13.7  |  —   | 83.2 | 66.2  | 64.8  |  —   |
 | 3D LSTM                      | 27.0   | 31.0  | 33.8  |  —   | 83.3 | 77.6  | 78.0  |  —   |
