@@ -57,11 +57,11 @@ Please see ```evaluate.py``` for more details.
 | Gait Energy Image            | 21.4   | 25.6  | 15.9  |  —   | 73.2 | 72.1  | 66.0  |  —   |
 | Gait Energy Volume           | 25.7   | 20.4  | 13.7  |  —   | 83.2 | 66.2  | 64.8  |  —   |
 | 3D LSTM                      | 27.0   | 31.0  | 33.8  |  —   | 83.3 | 77.6  | 78.0  |  —   |
-| PCM + Skeleton               | 42.9   | 27.3  | 81.8  |  —   |  —   |  —    |  —    |  —   |
+<!-- | PCM + Skeleton               | 42.9   | 27.3  | 81.8  |  —   |  —   |  —    |  —    |  —   | -->
 | Size-Shape Descriptors + SVM | 20.5   |  —    |  —    |  —   |  —   |  —    |  —    |  —   |
 | Size-Shape Descriptors + LDA | 22.1   |  —    |  —    |  —   |  —   |  —    |  —    |  —   |
 | DVCov + SKL                  | 21.4   | 46.6  | 45.9  |  —   |  —   |  —    |  —    |  —   |
-| ED + SKL                     | 30.0   | 52.3  | 63.3  |  —   |  —   |  —    |  —    |  —   |
+<!-- | ED + SKL                     | 30.0   | 52.3  | 63.3  |  —   |  —   |  —    |  —    |  —   | -->
 | CNN-LSTM with RTA            | 50.0   |  —    |  —    |  —   |  —   |  —    |  —    |  —   |
 | D-13 Descriptors + SVM       | 17.9   |  —    |  —    |  —   |  —   |  —    |  —    |  —   |
 | D-13 Descriptors + KNN       | 39.3   | 33.8  | 40.5  | 46.9 | 64.3 | 63.6  | 71.1  | 90.0 |
