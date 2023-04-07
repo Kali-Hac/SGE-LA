@@ -3,7 +3,7 @@
 # Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification
 By Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu. In [IJCAI 2020](https://www.ijcai.org/Proceedings/2020/125). The extended journal version is available in [T-PAMI 2021](https://ieeexplore.ieee.org/abstract/document/9466418) with open [codes](https://github.com/Kali-Hac/Locality-Awareness-SGE).
 
-To the best of our knowledge, this is the *first* skeleton-based person re-identification paper appeared on IJCAI.
+To the best of our knowledge, this is the *first* skeleton-based person re-identification work appeared on IJCAI.
 
 ## Introduction
 This is the official implementation of the self-supervised gait encoding model presented by "Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification".
